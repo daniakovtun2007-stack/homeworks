@@ -6,7 +6,7 @@ public class Main21 {
         System.out.println(maxValue(array));
         drawTriangle(5,5);
         int[] numbers = {10, 5, 20, 8, 15};
-        int result = linearSearch(numbers, 20);
+        int result = linearSearch(numbers, 21);
         System.out.println(result);
     }
 
